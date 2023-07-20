@@ -1,2 +1,5 @@
 Mi nombre es Joe Larco soy Ing en SIstemas y me gusta la tecnologia de programacion WEB
 Actualmente estoy aprendiendo con el Dont repeat youself 
+
+
+Desarrollamaos de forma rapido creado modelos vistas y templates
