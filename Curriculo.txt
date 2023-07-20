@@ -1,6 +1,3 @@
 Mi nombre es Joe Larco soy Ing en SIstemas y me gusta la tecnologia de programacion WEB,
 veamos q pasa ahora
-Actualmente estoy aprendiendo este RUBY para trabajar con este lenguaje
-muy rapido cambios pero muy lento
-frame rails}
-.net nueva version
+Actualmente estoy aprendiendo Djgango con Python
