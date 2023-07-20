@@ -4,3 +4,5 @@ Actualmente estoy aprendiendo este RUBY para trabajar con este lenguaje
 muy rapido cambios pero muy lento
 frame rails}
 .net nueva version
+
+Visual CODE configuracdion
