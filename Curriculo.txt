@@ -6,3 +6,5 @@ frame rails}
 .net nueva version
 
 Visual CODE configuracdion
+
+actualmente C##
