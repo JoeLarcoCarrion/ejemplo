@@ -1,14 +1,2 @@
-Mi nombre es Joe Larco soy Ing en SIstemas y me gusta la tecnologia de programacion WEB,
-veamos q pasa ahora
-<<<<<<< HEAD
-Actualmente estoy aprendiendo Djgango con Python
-=======
-Actualmente estoy aprendiendo este RUBY para trabajar con este lenguaje
-muy rapido cambios pero muy lento
-frame rails nueva parte de este curso veamos como se hace
-.net nueva version
-
-Visual CODE configuracdion
-
-actualmente C## y más viene 
->>>>>>> c4321d832e01f35780cf86b0fceb0d0d32d9fae5
+Mi nombre es Joe Larco soy Ing en SIstemas y me gusta la tecnologia de programacion WEB
+Actualmente estoy aprendiendo con el Dont repeat youself 
